@@ -6,7 +6,7 @@
 	},
 
 	"hostRequirements": {
-   		"storage": "64gb" 
+   		"storage": "16gb" 
 	},
 
 	"features": {
